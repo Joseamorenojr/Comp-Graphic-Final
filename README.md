@@ -13,8 +13,8 @@ Iteration played a key role throughout the milestones. I frequently refactored c
 
 My approach to developing code has grown more methodical over the course of this project. I've moved away from trial-and-error coding and toward planning structures and responsibilities from the beginning, always thinking ahead about scalability and maintainability.
 
-Looking toward the future, computer science gives me a powerful set of tools to reach my goals—whether in game design, immersive simulation, or data visualization. It’s not just about programming; it's about solving problems creatively and efficiently.
+Looking toward the future, computer science gives me a powerful set of tools to reach my goals, whether in game design, immersive simulation, or data visualization. It’s not just about programming; it's about solving problems creatively and efficiently.
 
-The knowledge I’ve gained from computational graphics—like managing transformations, lighting models, and camera logic—has broadened my understanding of how digital environments are constructed. These skills will benefit me academically as I take on more advanced computer science or engineering courses that involve simulation or modeling.
+The knowledge I’ve gained from computational graphics such as managing transformations, lighting models, and camera logic has broadened my understanding of how digital environments are constructed. These skills will benefit me academically as I take on more advanced computer science or engineering courses that involve simulation or modeling.
 
 Professionally, computational graphics and visualizations offer me new ways to communicate data, ideas, and experiences. Whether building interactive environments or visualizing complex systems, the ability to represent abstract concepts visually is a vital skill across industries like gaming, AR/VR, architecture, and scientific research.
